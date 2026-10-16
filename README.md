@@ -32,3 +32,4 @@ React · TypeScript · Angular · Vue · SASS · Tailwind · Node.js · Express 
 ## Elsewhere
 
 [LinkedIn](https://linkedin.com/in/frederic-briand-dev)
+[Behance](https://www.behance.net/fbr911442bb8) — seven years of design and integration work
