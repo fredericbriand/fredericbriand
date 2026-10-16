@@ -21,6 +21,10 @@ React, TypeScript, SASS modules, TheCocktailDB API.
 Team of 4 — I built the ingredient-matching logic and the front-end
 architecture.
 
+**[Solar](https://github.com/fredericbriand/solorush-solar)** — Interactive
+solar system explorer, built solo in two days.
+React, TypeScript, SASS modules.
+
 ## Stack
 
 React · TypeScript · Angular · Vue · SASS · Tailwind · Node.js · Express · MySQL
